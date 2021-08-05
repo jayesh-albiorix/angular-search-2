@@ -1,0 +1,18 @@
+{
+  "name": "my-angular-search",
+  "version": "3.0.0",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "main": "bundles/my-lib.umd.js",
+  "module": "fesm2015/my-lib.js",
+  "es2015": "fesm2015/my-lib.js",
+  "esm2015": "esm2015/my-lib.js",
+  "fesm2015": "fesm2015/my-lib.js",
+  "typings": "my-lib.d.ts",
+  "sideEffects": false
+}
