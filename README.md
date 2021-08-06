@@ -1,5 +1,7 @@
 # installation 
 
+Add dependency in package.json:
+
 ```
 {
   "name": "xxx",
